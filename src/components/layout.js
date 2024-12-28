@@ -1,7 +1,7 @@
 
 import * as React from 'react'
-
 import { Link, useStaticQuery, graphql } from 'gatsby'
+import "katex/dist/katex.min.css"
 
 import {
   container,
